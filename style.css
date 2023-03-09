@@ -1,7 +1,4 @@
-* { 
-    margin: 0;
-    padding: 0;
-}
+
 
 
 .container {
@@ -10,7 +7,7 @@
     width: 100%;
 }
 
-.hiitteri {
+div.hiitteri {
     width: 100%;
     height: 100px;
     text-align: center;
@@ -19,7 +16,7 @@
     font-size: 30px;
 }
 
-.kroppa {
+div.kroppa {
     width: 100%;
     height: 100%;
     text-align: center;
