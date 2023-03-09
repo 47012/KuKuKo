@@ -1,10 +1,9 @@
-const hiframe = document.getElementById("hiframe");
-const dropdownBtn = hiframe.contentDocument.querySelector('.dropbtn');
-const dropdownContent = hiframe.contentDocument.querySelector('.dropdown-content');
-const dropdown = hiframe.contentDocument.querySelector('.dropdown');
+document.addEventListener('DOMContentLoaded', function() {
+  const dropdownBtn = document.querySelector('.dropbtn');
+  const dropdownContent = document.querySelector('.dropdown-content');
+  const dropdown = document.querySelector('.dropdown');
 
-dropdownBtn.addEventListener('click', function() {
-  dropdown.classList.toggle('active');
+  dropdownBtn.addEventListener('click', function() {
+    dropdown.classList.toggle('active');
+  });
 });
-
-
