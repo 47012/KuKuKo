@@ -7,4 +7,11 @@ document.addEventListener('DOMContentLoaded', function() {
   dropdownBtn.addEventListener('click', function() {
     dropdown.classList.toggle('active');
   });
+
+  // Close dropdown when user clicks outside of it
+  document.addEventListener('click', function(event) {
+    if (!event.target.closest('.dropdown')) {
+      dropdown.classList.remove('active');
+    }
+  });
 });
