@@ -16,6 +16,6 @@
     z-index: 1;
 }
   
-.dropdown:active .dropdown-content {
+.dropdown.active .dropdown-content {
     display: block;
 }
