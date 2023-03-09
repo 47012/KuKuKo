@@ -40,7 +40,7 @@ body {
     cursor: pointer;
 }
   
-  /* Style the dropdown content */
+/* Style the dropdown content */
 .dropdown-content {
     display: none;
     position: absolute;
@@ -49,7 +49,7 @@ body {
     z-index: 1;
 }
   
-  /* Show the dropdown content when the user clicks on the button */
+/* Show the dropdown content when the user clicks on the button */
 .dropdown:hover .dropdown-content {
     display: block;
 }
