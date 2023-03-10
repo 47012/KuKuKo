@@ -42,9 +42,7 @@ body {
 }
 .teksti-laatikko{
     text-align: center;
-    margin-left: 25%;
-    margin-right: 25%;
-    margin-top: 100px
+
 
 }
 
@@ -53,6 +51,39 @@ h1{
     text-shadow: 1px 1px 0 #910000;
 }
 
+@media screen and (max-width: 767px) {
+    /* Styles for mobile devices */
 
+    .teksti-laatikko{
+        text-align: center;
+        margin-left: 5%;
+        margin-right: 5%;
+        margin-top: 200px
+    
+    }
+
+
+
+    
+}
+
+
+
+@media screen and (min-width: 768px) {
+    /* Styles for PC devices */
+
+    .teksti-laatikko{
+        text-align: center;
+        margin-left: 25%;
+        margin-right: 25%;
+        margin-top: 100px
+    
+    }
+
+
+
+
+
+}
 
 
