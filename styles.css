@@ -39,7 +39,6 @@ body {
     background-position: center center;
     background-attachment: fixed;
 
-    
 }
 .teksti-laatikko{
     text-align: center;
@@ -47,14 +46,11 @@ body {
     margin-right: 25%;
     margin-top: 100px
 
-
-
-
 }
 
 h1{
-    color: #fff;
-    text-shadow: 4px 4px 0 #910000;
+    color: black;
+    text-shadow: 1px 1px 0 #910000;
 }
 
 
