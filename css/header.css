@@ -1,9 +1,12 @@
 @import url("/KuKuKo/css/fonts.css");
 
-.otsikko {
+.header-text {
     color: #910000;
     font-family: 'MB-ForeverRaw';
-    font-size: larger;
+    font-size: 30px;
+    position: absolute;
+    top: 0;
+    right: -60px;
 
 }
 
