@@ -1,6 +1,7 @@
 body {
     margin: 0;
     padding: 0;
+    background-color: #1b1b1b;
 }
 
 
@@ -36,7 +37,7 @@ body {
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
-    background-color: #1b1b1b;
+
     
 }
 .teksti-laatikko{
