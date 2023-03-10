@@ -27,6 +27,8 @@
     cursor: pointer;
     width: 75px;
     height: 75px;
+    top: 10px;
+    left: 10px;
 }
   
 .dropdown-content {
