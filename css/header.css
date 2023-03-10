@@ -1,4 +1,11 @@
+@import url("/KuKuKo/css/fonts.css");
 
+.otsikko {
+    color: #910000;
+    font-family: 'MB-ForeverRaw';
+    font-size: larger;
+
+}
 
 
 .dropbtn {
