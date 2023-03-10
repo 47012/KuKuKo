@@ -34,7 +34,7 @@ body {
     background-image: url("images/KuKuKoBG.png");
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center calc(50% + 30px);
+    background-position: center center;
     background-attachment: fixed;
 }
 
