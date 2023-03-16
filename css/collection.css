@@ -2,11 +2,11 @@
   display: inline-block;
   width: 33%; /* set the width to 33% to make them all the same size and fit 3 in a row */
   vertical-align: top; /* align them to the top to prevent extra space below */
-  margin-top: 200px;
+  
 }
 
 .gif-image{
   max-width: 250px;
   opacity: 0.5;
-
+  z-index: 999;
 }
