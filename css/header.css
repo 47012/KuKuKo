@@ -27,11 +27,16 @@
     cursor: pointer;
     width: 75px;
     height: 75px;
+    z-index: 999;
 }
 
 .dropbtnimg {
     z-index: 999;
     max-width: 175%;
+}
+
+.dropbtnbg {
+    background-color: #1b1b1b; 
 }
 
   
