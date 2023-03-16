@@ -1,3 +1,11 @@
+
+.kontti-kontti{
+  max-height: 100vh;
+  min-height: 100vh;
+}
+
+
+
 .gif-container{
   display: flex;
   justify-content: center;
@@ -6,7 +14,7 @@
 }
 
 .gif-container img {
-  width:20%;
+  width: calc(1/7);
   object-fit: cover;
   margin: 0px;
   flex: 1;
