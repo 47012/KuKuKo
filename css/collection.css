@@ -1,6 +1,11 @@
 .gif-container img {
-    display: inline-block;
-    width: 33%; /* set the width to 33% to make them all the same size and fit 3 in a row */
-    vertical-align: top; /* align them to the top to prevent extra space below */
-  }
-  
+  display: inline-block;
+  width: 33%; /* set the width to 33% to make them all the same size and fit 3 in a row */
+  vertical-align: top; /* align them to the top to prevent extra space below */
+}
+
+.gif-image{
+  max-width: 400px;
+  opacity: 0.5;
+
+}
