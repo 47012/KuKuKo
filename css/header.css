@@ -27,6 +27,11 @@
     cursor: pointer;
     width: 75px;
     height: 75px;
+    
+    .dropbtnimg {
+        z-index: 999;
+        max-width: 175%;
+    }
 
 }
   
