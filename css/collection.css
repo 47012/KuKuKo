@@ -6,9 +6,10 @@
 }
 
 .gif-container img {
-  width: calc(20% - 20px);
+  width:20%;
   object-fit: cover;
   margin: 0px;
+  flex: 1;
 }
 
 .gif-image{
