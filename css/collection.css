@@ -14,7 +14,8 @@
 }
 
 .gif-container img {
-  width: calc(1/7);
+  height: 33.33vh;
+  width: 14.28vw;
   object-fit: cover;
   margin: 0px;
   flex: 1;
