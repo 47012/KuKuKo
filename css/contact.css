@@ -5,9 +5,8 @@
     max-height: 100vh;
 }
 
-.board-img{    
-    min-height: 80vh;
-    max-height: 80vh;
+.board-img{
+    margin-top: 200px;    
     background-image: url('/KuKuKo/images/board.png');
     background-repeat: no-repeat;
     background-size: cover;
