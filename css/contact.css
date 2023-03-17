@@ -1,16 +1,12 @@
 
-
-
-
 .custom-cursor {
     cursor: url('/KuKuKo/images/cursor.png'), auto;
 }
 
-
 .board-img{
     min-height: 100vh;
     max-height: 100vh;
-    background-image: url('/KuKuKo/images/image.jpg');
+    background-image: url('/KuKuKo/images/board.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
